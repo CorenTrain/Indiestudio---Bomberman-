@@ -1,6 +1,6 @@
 # Indie Studio
 
-Bomberman clone
+Bomberman clone on minecraft style
 
 ## Authors
 
